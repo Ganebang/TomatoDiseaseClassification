@@ -1,2 +1,2 @@
 # TomatoDiseaseClassification
-Classifier tomata leaves diseases using CNN on Pytorch
+Classifier tomato leaves diseases using CNN on Pytorch
